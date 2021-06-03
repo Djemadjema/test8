@@ -1,0 +1,11 @@
+Model Information:
+* title:	WIP - Environment Asset - Tree
+* source:	https://sketchfab.com/3d-models/wip-environment-asset-tree-5fd3bd1c1da740b38dcdf2b257751e7f
+* author:	Susannetjotta (https://sketchfab.com/susannetjotta)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "WIP - Environment Asset - Tree" (https://sketchfab.com/3d-models/wip-environment-asset-tree-5fd3bd1c1da740b38dcdf2b257751e7f) by Susannetjotta (https://sketchfab.com/susannetjotta) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
